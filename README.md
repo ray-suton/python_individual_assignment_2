@@ -1,0 +1,2 @@
+# python_individual_assignment_2
+Pytho_Individual_Assignment_2_Rui_Gao

@@ -33,7 +33,7 @@ Additionally, the following **extensions** were implemented:
 - `groceries.csv` — input dataset  
 - `outputs/` — folder containing generated CSVs and figures  
 - `photo dump/` - pictures embedded in report
-- `AI1020_Individual_Assignment_2_Report_Rui_Gao` - main project report that would be submitted.
+- `AI1030_Individual_Assignment_Report_2_Rui_Gao` - main project report that would be submitted.
 ---
 
 ## How to Run

@@ -32,7 +32,7 @@ Additionally, the following **extensions** were implemented:
 - `data.ipynb` — main notebook with all data processing, analysis, and visualization steps  
 - `groceries.csv` — input dataset  
 - `outputs/` — folder containing generated CSVs and figures  
-- `numerous png files` - pictures embedded in report
+- `photo dump/` - pictures embedded in report
 - `AI1020_Individual_Assignment_2_Report_Rui_Gao` - main project report that would be submitted.
 ---
 
